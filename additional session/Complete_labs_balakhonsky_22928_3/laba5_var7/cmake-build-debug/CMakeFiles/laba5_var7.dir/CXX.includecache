@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/BalDi/Desktop/BP/laba5_var7/main.cpp
+iostream
+-
+vector
+-
+cmath
+-
+iomanip
+-
+

@@ -1,0 +1,3 @@
+/home/dmitry/MyProject/BP/additional session/laba2_var7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dmitry/MyProject/BP/additional session/laba2_var7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dmitry/MyProject/BP/additional session/laba2_var7/cmake-build-debug/CMakeFiles/laba2_var10.dir

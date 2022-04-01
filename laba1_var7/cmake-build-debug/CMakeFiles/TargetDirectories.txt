@@ -1,0 +1,3 @@
+C:/Users/BalDi/Desktop/BP/laba1_var7/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/BalDi/Desktop/BP/laba1_var7/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/BalDi/Desktop/BP/laba1_var7/cmake-build-debug/CMakeFiles/rebuild_cache.dir

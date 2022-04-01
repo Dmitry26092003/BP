@@ -1,0 +1,3 @@
+/home/dmitry/MyProject/BP/additional session/rabota1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dmitry/MyProject/BP/additional session/rabota1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dmitry/MyProject/BP/additional session/rabota1/cmake-build-debug/CMakeFiles/rabota1.dir

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/BalDi/Desktop/BP/laba3_var7/main.cpp
+iostream
+-
+stdio.h
+C:/Users/BalDi/Desktop/BP/laba3_var7/stdio.h
+

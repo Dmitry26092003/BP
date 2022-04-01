@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/BalDi/Desktop/BP/laba1_var7/LabsCode/customFunctions.h
+
+C:/Users/BalDi/Desktop/BP/laba1_var7/main.cpp
+iostream
+-
+vector
+-
+cmath
+-
+string
+-
+iomanip
+-
+LabsCode/customFunctions.h
+C:/Users/BalDi/Desktop/BP/laba1_var7/LabsCode/customFunctions.h
+

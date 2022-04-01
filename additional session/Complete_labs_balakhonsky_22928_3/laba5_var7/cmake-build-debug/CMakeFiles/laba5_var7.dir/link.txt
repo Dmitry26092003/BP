@@ -1,0 +1,3 @@
+C:\Users\BalDi\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5457.51\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\laba5_var7.dir/objects.a
+C:\CPP\bin\ar.exe cr CMakeFiles\laba5_var7.dir/objects.a @CMakeFiles\laba5_var7.dir\objects1.rsp
+C:\CPP\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\laba5_var7.dir/objects.a -Wl,--no-whole-archive -o laba5_var7.exe -Wl,--out-implib,liblaba5_var7.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\laba5_var7.dir\linklibs.rsp

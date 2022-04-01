@@ -1,0 +1,3 @@
+/home/dmitry/MyProject/BP/laba7var7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dmitry/MyProject/BP/laba7var7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dmitry/MyProject/BP/laba7var7/cmake-build-debug/CMakeFiles/laba7var7.dir
